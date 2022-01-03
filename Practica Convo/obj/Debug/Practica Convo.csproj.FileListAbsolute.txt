@@ -1,0 +1,10 @@
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\bin\Debug\Practica Convo.exe.config
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\bin\Debug\Practica Convo.exe
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\bin\Debug\Practica Convo.pdb
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica Convo.csproj.AssemblyReference.cache
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica_Convo.Form1.resources
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica_Convo.Properties.Resources.resources
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica Convo.csproj.GenerateResource.cache
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica Convo.csproj.CoreCompileInputs.cache
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica Convo.exe
+C:\Users\nikah\OneDrive\Escritorio\Practica Convo\Practica Convo\obj\Debug\Practica Convo.pdb
